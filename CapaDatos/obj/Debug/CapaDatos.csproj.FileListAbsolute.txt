@@ -1,0 +1,6 @@
+C:\Users\Daniel\source\repos\Laboratorio3\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Daniel\source\repos\Laboratorio3\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Daniel\source\repos\Laboratorio3\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\Laboratorio3\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\Laboratorio3\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Daniel\source\repos\Laboratorio3\CapaDatos\obj\Debug\CapaDatos.pdb
